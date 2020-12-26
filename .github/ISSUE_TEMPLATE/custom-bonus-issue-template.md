@@ -9,6 +9,11 @@ assignees: ''
 
 # (Bonus Program Name)
 
+操作成本： ⭐️⭐️⭐️⭐️⭐️
+
+操作难度：⭐️⭐️⭐️⭐️⭐️
+
+推荐值：⭐️⭐️⭐️⭐️⭐️
 ## Program Summary
 
 ## All Cost
