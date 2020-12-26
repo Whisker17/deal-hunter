@@ -6,9 +6,9 @@
 
 ## 如何贡献
 
-1. 当我们发现一个潜在的撸羊毛项目时，请先在 [**Bonus Lists**]() 中确认没有相关项目
+1. 当我们发现一个潜在的撸羊毛项目时，请先在 [**Bonus Lists**](https://github.com/Whisker17/deal-hunter/blob/main/BonusLists.md) 中确认没有相关项目
 
-2. 在确认后先新建相关项目的 Issue ，在按照标准格式正确构建 Issue 后，提起对 [**Bonus Lists**]() 的 PR
+2. 在确认后先新建相关项目的 Issue ，在按照标准格式正确构建 Issue 后，提起对 [**Bonus Lists**](https://github.com/Whisker17/deal-hunter/blob/main/BonusLists.md) 的 PR
 
 
 最后，希望大家都能通过撸羊毛的方式实现财富自由！
