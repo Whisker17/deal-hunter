@@ -21,4 +21,7 @@ assignees: ''
 
 ## How To Join 
 
+## Airdrop Requirement
+
+
 ## How To Get Bonus
